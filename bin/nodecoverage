@@ -1,4 +1,0 @@
-#!/usr/bin/env node
-
-console.log("Version 0.0.0, initial commit.");
-
