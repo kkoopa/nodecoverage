@@ -1,11 +1,13 @@
-Node-coverage
-=============
+Nodecoverage
+============
 
 Test coverage analyzer for [Node.js] binary addons.  
+Use [gcov] as coverage compiler.
 Check out the [Github repo] for the source code.
 
 [Node.js]: http://nodejs.org/
-[Github repo]: http://github.com/Sannis/node-coverage
+[gcov]: http://gcc.gnu.org/onlinedocs/gcc/Gcov.html
+[Github repo]: http://github.com/Sannis/nodecoverage
 
 
 Contributing
@@ -26,14 +28,14 @@ Contributors
 * **Oleg Efimov** ( [E-mail](efimovov@gmail.com), [GitHub](http://github.com/Sannis), [site](http://sannis.ru) \)
 
   Author and maintainer.  
-  [All commits](http://github.com/Sannis/node-coverage/commits/master?author=Sannis).
+  [All commits](http://github.com/Sannis/nodecoverage/commits/master?author=Sannis).
 
 
-[Full contributors list](http://github.com/Sannis/node-coverage/contributors).
+[Full contributors list](http://github.com/Sannis/nodecoverage/contributors).
 
 
 License
 -------
 
-MIT license. See license text in file [LICENSE](http://github.com/Sannis/node-coverage/blob/master/LICENSE).
+MIT license. See license text in file [LICENSE](http://github.com/Sannis/nodecoverage/blob/master/LICENSE).
 

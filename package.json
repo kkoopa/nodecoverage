@@ -11,11 +11,11 @@
     , "email": "efimovov@gmail.com"
     }
   ]
-, "bugs" : { "web" : "http://github.com/Sannis/node-coverage/issues" }
+, "bugs" : { "web" : "http://github.com/Sannis/nodecoverage/issues" }
 , "licenses" : [ { "type" : "MIT" } ]
 , "repositories" :
   [ { "type" : "git"
-    , "url" : "http://github.com/Sannis/node-coverage.git"
+    , "url" : "http://github.com/Sannis/nodecoverage.git"
     }
   ]
 , "bin": {
